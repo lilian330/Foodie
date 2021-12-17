@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/nav_home"
+    android:icon="@drawable/ic_round_home_24"
+    android:title="HOME" />
+
+<!--<item-->
+<!--    android:id="@+id/nav_add"-->
+<!--    android:icon="@drawable/ic_round_add_circle_24"-->
+<!--    android:title="ADD" />-->
+
+<item
+    android:id="@+id/nav_message"
+    android:icon="@drawable/ic_round_forum_24"
+    android:title="MESSAGE"/>
+
+<item
+    android:id="@+id/nav_me"
+    android:icon="@drawable/ic_round_account"
+    android:title="ME" />
+</menu>
